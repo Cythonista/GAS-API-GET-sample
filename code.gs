@@ -19,7 +19,7 @@ function getSheetData() {
   headers[3] = 'create_date';
   headers[4] = 'update_date';
 
-  console.log(records[3][0])
+  console.log(records[3][0]);
 
   const objects = records.map(record => 
     Object.fromEntries(
