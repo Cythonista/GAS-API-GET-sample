@@ -1,2 +1,2 @@
-# GAS-API-GET-sample
+# GAS-API-sample
 サンプルです!
